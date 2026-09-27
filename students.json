@@ -1,0 +1,28 @@
+[
+    {
+        "roll_no": "1",
+        "name": "Daksh Yadav",
+        "class": "12",
+        "section": "A",
+        "marks": {
+            "Physics": 90.0,
+            "Chemistry": 80.0,
+            "Mathematics": 95.0,
+            "Englsih": 85.0,
+            "Computer Science": 90.0
+        }
+    },
+    {
+        "roll_no": "2",
+        "name": "Rohit Singh",
+        "class": "11",
+        "section": "B",
+        "marks": {
+            "Physics": 80.0,
+            "Chemistry": 85.0,
+            "Mathematics": 90.0,
+            "Englsih": 80.0,
+            "Computer Science": 85.0
+        }
+    }
+]
